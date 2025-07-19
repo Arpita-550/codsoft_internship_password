@@ -20,7 +20,7 @@ The ability to copy to the clipboard
 
 ## Running Instructions
 
-1. Make sure Python (ideally 3.1.4) is installed.
+1. Make sure Python (ideally 3.13.5) is installed.
 2. Download or clone the repository.
 3. Launch the Python application:
 
@@ -28,7 +28,7 @@ The ability to copy to the clipboard
 Set your password using the GUI.
 
 Requirements
-Python 3.1.4
+Python 3.13.5
 
 Tkinter (included by default in standard Python installations)
 
